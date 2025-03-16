@@ -27,7 +27,7 @@ WebView myWeb;
         myWeb = findViewById(R.id.myWeb);
         myWeb.getSettings().setJavaScriptEnabled(true);
         myWeb.setWebViewClient(new WebViewClient());
-        myWeb.loadUrl("https://www.youtube.com/");
+        myWeb.loadUrl("https://workforceinternationalagency.com/");
 
     }
 }
